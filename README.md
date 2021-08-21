@@ -2,7 +2,6 @@
 Index:-
    
     1. Python Basics
+        a. Python basics :- variables,list,sets,tuples,loops,functions, lambda functions,dictionary, input
     
-    2. Python library - Numpy
     
-    3. Numpy 
