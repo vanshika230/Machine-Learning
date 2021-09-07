@@ -6,5 +6,6 @@ Index:-
         b. Python Oops
         c. File and Error Handling - hello.txt, something.txt, data.json,created.json
         d. Iteration Protocol and Generators
+    2.Basics of Git and Github
     
     
