@@ -1,0 +1,31 @@
+Name,Internal codename,Version number(s),Initial stablerelease date,Supported(security fixes),API level,References
+Android 1.0,N/A,1.0,September 23 2008,No,1,[9][14]
+Android 1.1,Petit Four,1.1,February 9 2009,No,2,[9][14][15]
+Android Cupcake,Cupcake,1.5,April 27 2009,No,3,[14][16]
+Android Donut,Donut,1.6,September 15 2009,No,4,[14][17]
+Android Eclair,Eclair,2.0,October 27 2009,No,5,[14][18][19]
+2.0.1,December 3 2009,No,6,
+2.1,January 11 2010,No,7,[20]
+Android Froyo,Froyo,2.2 – 2.2.3,May 20 2010,No,8,[14][21]
+Android Gingerbread,Gingerbread,2.3 – 2.3.2,December 6 2010,No,9,[14][22]
+2.3.3 - 2.3.7,February 9 2011,No,10,
+Android Honeycomb,Honeycomb,3.0,February 22 2011,No,11,[14][23]
+3.1,May 10 2011,No,12,
+3.2 - 3.2.6,July 15 2011,No,13,
+Android Ice Cream Sandwich,Ice Cream Sandwich,4.0 – 4.0.2,October 18 2011,No,14,[14][24]
+4.0.3 - 4.0.4,December 16 2011,No,15,
+Android Jelly Bean,Jelly Bean,4.1 – 4.1.2,July 9 2012,No,16,[14][25]
+4.2 - 4.2.2,November 13 2012,No,17,
+4.3 - 4.3.1,July 24 2013,No,18,
+Android KitKat,Key Lime Pie,4.4 – 4.4.4,October 31 2013,No,19,[14][26]
+4.4W - 4.4W.2,June 25 2014,No,20,
+Android Lollipop,Lemon Meringue Pie,5.0 – 5.0.2,November 4 2014,No,21,[14][27][28]
+5.1 - 5.1.1,March 2 2015,No,22,[29]
+Android Marshmallow,Macadamia Nut Cookie,6.0 – 6.0.1,October 2 2015,No,23,[14][30][31]
+Android Nougat,New York Cheesecake,7.0,August 22 2016,No,24,[14][32][33][34][35]
+7.1 - 7.1.2,October 4 2016,No,25,
+Android Oreo,Oatmeal Cookie,8.0,August 21 2017,No,26,[14][36][37]
+8.1,December 5 2017,Yes[a],27,[14][38]
+Android Pie,,9,August 6 2018,Yes,28,[14][39]
+Android 10,Quince Tart,10,September 3 2019,Yes,29,[14][40][41][42]
+Android 11,Red Velvet Cake,11,September 8 2020,Yes,30,[14][43]
