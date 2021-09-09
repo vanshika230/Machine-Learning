@@ -10,5 +10,8 @@ Index:-
         a. Data Acquisition using Beautiful Soup 
         b. Data Acquisition using Web APIs
         c. Data Acquisition- Web Crawler using Scrappy
+        Projects:-
+             - Github Webscraping
+             - Linkedin Webscraping
     
     
