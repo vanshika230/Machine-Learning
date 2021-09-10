@@ -9,7 +9,6 @@ Index:-
     2.Data Acquisition
         a. Data Acquisition using Beautiful Soup 
         b. Data Acquisition using Web APIs
-        c. Data Acquisition- Web Crawler using Scrappy
         Projects:-
              - Github Webscraping using BeautifulSoup.
              - Linkedin Webscraping using BeautifulSoup and Selenium.
