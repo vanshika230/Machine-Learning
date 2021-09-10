@@ -1,10 +1,10 @@
 🔴 PYTHON
-    ✅Basics 
-    ✅Functions
-    ✅Builtin Data Structures
-    ✅ Object Oriented Programming & Modules
-    ✅File and Error Handling
-    ✅Iteration Protocol and Generators (Intermediate Python)
+    ✅Basics                                                                                                                                  Key:-
+    ✅Functions                                                                                                                               🔴Not done yet
+    ✅Builtin Data Structures                                                                                                                 ✅Completed and uploaded
+    ✅ Object Oriented Programming & Modules                                                                                                   - further subdivisions
+    ✅File and Error Handling                                                                                                                 🔥 awesome project(not done yet)
+    ✅Iteration Protocol and Generators (Intermediate Python)                                                                                 (✅ alloted only on completion)
     ✅Kaggle Python micro-course
     - Asynchronous Programming in Python (Optional)
 
