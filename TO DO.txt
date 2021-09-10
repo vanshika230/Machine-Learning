@@ -1,0 +1,185 @@
+🔴 PYTHON
+    ✅Basics 
+    ✅Functions
+    ✅Builtin Data Structures
+    ✅ Object Oriented Programming & Modules
+    ✅File and Error Handling
+    ✅Iteration Protocol and Generators (Intermediate Python)
+    ✅Kaggle Python micro-course
+    - Asynchronous Programming in Python (Optional)
+
+🔴Basics of Git/Github
+
+✅Data Acquisition - Web Scrapping 
+    ✅ Fetching data
+    ✅ Using Beautoful Soup
+    ✅ Parsing HTML tables
+    ✅Creating CSV's
+    ✅Cleaning data
+    ✅Scraping using Web API'S 
+     Projects:-
+    ✅Github Webscraping using Beautiful Soup
+    ✅LinkedIn webscraping using Beautiful Soup and Selenium
+
+🔥Project - Creating a Telegram Bot
+     ✅creating an echo bot
+     - Setting up webhooks
+     -Making a conversational bot
+     - setting up custom keyboard
+     - deploying flask app for telegram bot on heroku
+
+🔴Getting started with Machine Learning
+    - Overview of Machine Learning pipelines
+    - Supervised learning
+    -unsupervised learning
+    -reinforcement learning
+
+🔴Numpy
+🔴Linear Algebra
+🔴Data Visualisation 
+    -Kaggle microcourse 
+🔴Seaborn
+🔴Pandas
+    - Kaggle micro - course
+🔥Project - Movie Recommendation System
+🔴Probability Distribution & Statistics
+🔴K-Nearest Neighbours
+🔥Project :- Diabetes Classification
+🔥Project - Face Recognition
+🔥Project - Create SnapChat Fillters
+🔴Linear Regression
+🔴Linear Regression - II Multiple Features
+🔴Sci-kit Learn Introduction
+🔴Optimisation Algorithms
+🔴Locally Weighted Regression (LOWESS)
+🔴Maximum Likelihood Estimate (MLE) [Proof]
+🔥Project - Air Pollution Regression
+🔴Logistic Regression
+🔥Project - Chemical Classifier
+🔴Data Prepreprocessing
+🔴Feature Selection
+🔴PCA
+🔴Natural Language Pre-preprocessing
+🔴Naive Bayes Classifier
+🔥Project - Movie Review Classification
+🔥Project - Movie Rating Prediction
+🔴Decision Trees & Random Forests
+🔥Project- Titanic Survivor Prediction
+
+Support Vector Machines
+13 Items | Duration : 3hrs
+
+Project - Image Classification using SVM
+6 Items | Duration : 1hrs
+
+🚀Challenge - PokeMon's Goa Trip
+2 Items | Duration : 1hrs
+
+Clustering Fundamentals (Unsupervised)
+7 Items | Duration : 1hrs
+
+Project - Extracting Dominant Colors
+3 Items | Duration : 24mins
+
+🚀 Challenge - Clustering Challenges
+1 Items | Duration : 15mins
+
+Deep Learning Introduction
+9 Items | Duration : 2hrs
+
+Neural Networks - MLP's
+15 Items | Duration : 3hrs
+
+Project - Image Classsification using Neural Network
+3 Items | Duration : 39mins
+
+Project - IMDB Sentiment Analysis
+3 Items | Duration : 42mins
+
+🚀 Neural Networks Challenges
+5 Items | Duration : 2hrs
+
+Convolutional Neural Networks
+9 Items | Duration : 1hrs
+
+Training - Data Loaders, Augmentation, Colab
+7 Items | Duration : 1hrs
+
+Project - COVID Detection using CNN
+1 Items | Duration : 15mins
+
+CNN Case Studies
+5 Items | Duration : 1hrs
+
+Digging Deeper into Convnets
+4 Items | Duration : 46mins
+
+Transfer Learning
+4 Items | Duration : 1hrs
+
+🚀 Build a 'Mobile Friendly CNN' Challenge
+3 Items | Duration : 1hrs
+
+Markov Chains for Text Generation (NLP)
+5 Items | Duration : 43mins
+
+🚀 Challenge - Lyrics Generator!
+1 Items | Duration : 1hrs
+
+Recurrent Neural Networks
+8 Items | Duration : 1hrs
+
+Word Embeddings - Word2Vec
+3 Items | Duration : 50mins
+
+🚀Challenges - Word Embeddings
+1 Items | Duration : 1hrs
+
+Project - Emoji Prediction
+9 Items | Duration : 56mins
+
+🚀RNN/LSTM Challenges
+3 Items | Duration : 2hrs
+
+Reinforcement Learning
+8 Items | Duration : 1hrs
+
+🚀 Mountain Car Challenge
+3 Items | Duration : 1hrs
+
+Generative Adversarial Networks
+8 Items | Duration : 2hrs
+
+Deep Convolutional GAN's (DCGANs)
+9 Items | Duration : 1hrs
+
+🚀 All Quizzes
+15 Items | Duration : 3hrs
+
+🚀 All Challenges
+19 Items | Duration : 18hrs
+
+🏆 CAPSTONE PROJECT - AI Image Caption Bot 🤖
+15 Items | Duration : 3hrs
+
+🏆 ML + Web Project: Creating ML Based Web Service (Django)
+2 Items | Duration : 35mins
+
+Integrating ML Models with Web (Flask)
+10 Items | Duration : 3hrs
+
+Tensorflow Introduction
+3 Items | Duration : 42mins
+
+Introduction to PyTorch
+2 Items | Duration : 17mins
+
+Project Ideas
+1 Items | Duration : 14mins
+
+Live Sessions
+2 Items | Duration : 1hrs
+
+SQL
+
+
