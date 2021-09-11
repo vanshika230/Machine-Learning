@@ -21,13 +21,6 @@
     ✅Github Webscraping using Beautiful Soup
     ✅LinkedIn webscraping using Beautiful Soup and Selenium
 
-🔥Project - Creating a Telegram Bot
-     ✅creating an echo bot
-     ✅Learning dialogflow
-     ✅Making a conversational bot
-     - setting up custom keyboard
-     - deploying flask app for telegram bot on heroku
-
 🔴Getting started with Machine Learning
     - Overview of Machine Learning pipelines
     - Supervised learning
