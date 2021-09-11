@@ -23,8 +23,8 @@
 
 🔥Project - Creating a Telegram Bot
      ✅creating an echo bot
-     - Setting up webhooks
-     -Making a conversational bot
+     ✅Learning dialogflow
+     ✅Making a conversational bot
      - setting up custom keyboard
      - deploying flask app for telegram bot on heroku
 
