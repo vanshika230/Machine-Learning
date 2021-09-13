@@ -21,11 +21,11 @@
     ✅Github Webscraping using Beautiful Soup
     ✅LinkedIn webscraping using Beautiful Soup and Selenium
 
-🔴Getting started with Machine Learning
-    - Overview of Machine Learning pipelines
-    - Supervised learning
-    -unsupervised learning
-    -reinforcement learning
+✅Getting started with Machine Learning
+    ✅Overview of Machine Learning pipelines
+    ✅ Supervised learning
+    ✅unsupervised learning
+    ✅reinforcement learning
 
 🔴Numpy
 🔴Linear Algebra
