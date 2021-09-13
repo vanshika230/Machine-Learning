@@ -13,5 +13,8 @@ Index:-
              - Github Webscraping using BeautifulSoup.
              - Linkedin Webscraping using BeautifulSoup and Selenium.
     3. Mathematics required for Machine Learning
+        a.Statistics:
+            1. Measures of central tendency – mean, median, mode
+            2. measures of dispersion – mean deviation, standard deviation, quartile deviation, skewness and kurtosis.
     
     
