@@ -9,3 +9,9 @@
     a. Keith galli:- https://www.youtube.com/watch?v=GjKQ6V_ViQE
     
     b. Jovian :- https://www.youtube.com/watch?v=RKsLLG-bzEY
+
+3. Mathematics for Machine Learning
+
+    a. 3Blue1Brown :- https://www.youtube.com/c/3blue1brown/videos
+    
+    b. Krish Naik:- https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO
