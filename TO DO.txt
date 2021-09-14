@@ -27,7 +27,7 @@
     ✅unsupervised learning
     ✅reinforcement learning
 
-🔴Numpy
+✅Numpy
 🔴Linear Algebra
 🔴Data Visualisation 
     -Kaggle microcourse 
