@@ -15,7 +15,7 @@ Index:-
     3. Python Libraries :-
         a. Numpy
         b. Matplotlib
-   Mathematics required for Machine Learning
+    Mathematics required for Machine Learning
         a.Statistics:
             1. Measures of central tendency – mean, median, mode
             2. measures of dispersion – mean deviation, standard deviation, quartile deviation, skewness and kurtosis.
