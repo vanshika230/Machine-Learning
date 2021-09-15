@@ -15,6 +15,8 @@ Index:-
     3. Python Libraries :-
         a. Numpy
         b. Matplotlib
+        c. Seaborn
+        d. Pandas
     Mathematics required for Machine Learning
         a.Statistics:
             1. Measures of central tendency – mean, median, mode
