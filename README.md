@@ -21,5 +21,5 @@ Index:-
         a.Statistics:
             1. Measures of central tendency – mean, median, mode
             2. measures of dispersion – mean deviation, standard deviation, quartile deviation, skewness and kurtosis.
-    
+        b. Linear Algebra :- scalars,vectors,matrices,tensors.transpose,broadcasting,matrix multiplication, hadamard product,norms,determinants, solving linear equations
     
