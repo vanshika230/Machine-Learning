@@ -28,14 +28,14 @@
     ✅reinforcement learning
 
 ✅Numpy
-🔴Linear Algebra
-🔴Data Visualisation 
+✅Linear Algebra
+✅Data Visualisation 
     -Kaggle microcourse 
-🔴Seaborn
-🔴Pandas
+✅Seaborn
+✅Pandas
     - Kaggle micro - course
-🔥Project - Movie Recommendation System
-🔴Probability Distribution & Statistics
+✅Project - Movie Recommendation System
+✅Probability Distribution & Statistics
 🔴K-Nearest Neighbours
 🔥Project :- Diabetes Classification
 🔥Project - Face Recognition
