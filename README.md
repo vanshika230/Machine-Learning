@@ -22,6 +22,7 @@ Index:-
            - Exploratory data analysis
            - Construct prediction model for one movie
            - Generalize the prediction model for all movies and display predictions.
+    5. Face Recognition Using OpenCV
     Mathematics required for Machine Learning
         a.Statistics:
             1. Measures of central tendency – mean, median, mode
