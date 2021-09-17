@@ -17,6 +17,11 @@ Index:-
         b. Matplotlib
         c. Seaborn
         d. Pandas
+    4. Movie Recommendation System :-
+           - get dataset
+           - Exploratory data analysis
+           - Construct prediction model for one movie
+           - Generalize the prediction model for all movies and display predictions.
     Mathematics required for Machine Learning
         a.Statistics:
             1. Measures of central tendency – mean, median, mode
