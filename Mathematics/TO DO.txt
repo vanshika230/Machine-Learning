@@ -8,5 +8,6 @@ Statistics:
 7. Moment generating function, Functions of one dimensional and two dimensional random variables, Sampling theory, Central limit theorem and applications. 
 8. Partial Differential Equations: Numerical solutions of partial differential equations by finite difference methods, five-point formula, Laplace Poisson Equations, Heat equation, Crank Nicolson’s method, Wave equation. 
 
+Linear Algebra :- scalars,vectors,matrices,tensors.transpose,broadcasting,matrix multiplication, hadamard product,norms,determinants, solving linear equations✅
 
  
