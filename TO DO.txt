@@ -37,7 +37,7 @@
 ✅Project - Movie Recommendation System
 ✅Probability Distribution & Statistics
 ✅K-Nearest Neighbours
-🔥Project :- Handwriting Classification
+✅Project :- Handwriting Classification
 🔥Project :- Diabetes Classification
 ✅Project - Face Recognition
      ✅ Basics
