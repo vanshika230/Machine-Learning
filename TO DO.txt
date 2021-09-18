@@ -38,8 +38,13 @@
 ✅Probability Distribution & Statistics
 🔴K-Nearest Neighbours
 🔥Project :- Diabetes Classification
-🔥Project - Face Recognition
-🔥Project - Create SnapChat Fillters
+✅Project - Face Recognition
+     ✅ Basics
+     ✅ Working with images
+     ✅ Working with video stream
+     ✅ Face Detection using HaarCascade
+     ✅Generating data of faces
+     ✅ Building Face classifier
 🔴Linear Regression
 🔴Linear Regression - II Multiple Features
 🔴Sci-kit Learn Introduction
