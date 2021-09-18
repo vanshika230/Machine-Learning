@@ -27,6 +27,7 @@ Index:-
            - Implementation
            - Project 
               - Handwriting Recognition
+              - Diabetes Classification
            
     6. Face Recognition Using OpenCV and KNN Algorithm
            - Basics
