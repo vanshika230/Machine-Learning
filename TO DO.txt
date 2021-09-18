@@ -38,7 +38,7 @@
 ✅Probability Distribution & Statistics
 ✅K-Nearest Neighbours
 ✅Project :- Handwriting Classification
-🔥Project :- Diabetes Classification
+✅Project :- Diabetes Classification
 ✅Project - Face Recognition
      ✅ Basics
      ✅ Working with images
