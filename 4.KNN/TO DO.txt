@@ -1,3 +1,0 @@
-1. Theory
-2. Implementation
-3. Project
