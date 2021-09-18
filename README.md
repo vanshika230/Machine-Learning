@@ -25,9 +25,10 @@ Index:-
     5. K- Nearest Neighbour:-
            - Theory
            - Implementation
-           - Project
+           - Project 
+              - Handwriting Recognition
            
-    6. Face Recognition Using OpenCV
+    6. Face Recognition Using OpenCV and KNN Algorithm
            - Basics
            - Working with images
            - Working with video stream
