@@ -22,13 +22,19 @@ Index:-
            - Exploratory data analysis
            - Construct prediction model for one movie
            - Generalize the prediction model for all movies and display predictions.
-    5. Face Recognition Using OpenCV
+    5. K- Nearest Neighbour:-
+           - Theory
+           - Implementation
+           - Project
+           
+    6. Face Recognition Using OpenCV
            - Basics
            - Working with images
            - Working with video stream
            - Face Detection using HaarCascade
            - Generating data of faces
            - Building Face classifier
+    
            
     Mathematics required for Machine Learning
         a.Statistics:
