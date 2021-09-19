@@ -15,3 +15,11 @@
     a. 3Blue1Brown :- https://www.youtube.com/c/3blue1brown/videos
     
     b. Krish Naik:- https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO
+   
+4. Python Libraries :- 
+
+    a. Krish Naik :- https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB
+    
+5. KNN :
+
+    a. Simplilearn https://www.youtube.com/watch?v=4HKqjENq9OU 
