@@ -90,4 +90,4 @@
 🔴Introduction to PyTorch
 🔴SQL
 
-
+Disclaimer:- This syllabus has been taken for Coding blocks Machine Learning Master Course. It charges a hefty fee which I do not wish to pay since there are awesome tutorials out there on youtube and coursera. I just required guidance about the order in which I should study these things as a beginner. I follow them topic wise from various tutorials on youtube, blogs and tons of googling😅. This means no offense to coding blocks, their content is awesome. Its just that I do not wish to pay and that's my personal choice. I just follow their syllabus as a guide which btw is freely available on the internet. Thanks for reading.
