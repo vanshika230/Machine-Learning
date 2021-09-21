@@ -4,11 +4,11 @@
     ✅Builtin Data Structures                                                                                                                 ✅Completed and uploaded
     ✅ Object Oriented Programming & Modules                                                                                                   - further subdivisions
     ✅File and Error Handling                                                                                                                 🔥 awesome project(not done yet)
-    ✅Iteration Protocol and Generators (Intermediate Python)                                                                                 (✅ alloted only on completion)
+    ✅Iteration Protocol and Generators                                                                                                       (✅ alloted only on completion)
     ✅Kaggle Python micro-course
-    - Asynchronous Programming in Python (Optional)
+    - Asynchronous Programming in Python 
 
-🔴Basics of Git/Github
+✅Basics of Git/Github
 
 ✅Data Acquisition - Web Scrapping 
     ✅ Fetching data
@@ -54,19 +54,16 @@
 🔴Maximum Likelihood Estimate (MLE) [Proof]
 🔥Project - Air Pollution Regression
 🔴Logistic Regression
-🔥Project - Chemical Classifier
+🔥Project - Credit Fraud detection
 🔴Data Prepreprocessing
 🔴Feature Selection
 🔴PCA
 🔴Natural Language Pre-preprocessing
 🔴Naive Bayes Classifier
-🔥Project - Movie Review Classification
-🔥Project - Movie Rating Prediction
 🔴Decision Trees & Random Forests
 🔥Project- Titanic Survivor Prediction
 🔴Support Vector Machines
 🔥Project - Image Classification using SVM
-🔥Project - PokeMon's Goa Trip
 🔴Clustering Fundamentals (Unsupervised)
 🔥Project - Extracting Dominant Colors
 🔴Deep Learning Introduction
@@ -79,14 +76,11 @@
 🔴CNN Case Studies
 🔴Digging Deeper into Convnets
 🔴Transfer Learning
-🔥Project- Build a 'Mobile Friendly CNN' Challenge
 🔴Markov Chains for Text Generation (NLP)
-🔥Project - Lyrics Generator!
 🔴Recurrent Neural Networks
 🔴Word Embeddings - Word2Vec
 🔴Project - Emoji Prediction
 🔴Reinforcement Learning
-🔥project-  Mountain Car Challenge
 🔴Generative Adversarial Networks
 🔴Deep Convolutional GAN's (DCGANs)
 🏆 CAPSTONE PROJECT - AI Image Caption Bot 🤖
