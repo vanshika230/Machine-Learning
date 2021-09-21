@@ -1,2 +1,0 @@
-1. Gradient descent
-2. Contour plots
