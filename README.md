@@ -36,7 +36,11 @@ Index:-
            - Face Detection using HaarCascade
            - Generating data of faces
            - Building Face classifier
-    
+    7. Hand Detection using OpenCV and mediapipelines 
+    8. Linear Regression
+          - What is Linear Regression
+          - What is gradient descent
+          - Implementation of gradient descent
            
     Mathematics required for Machine Learning
         a.Statistics:
