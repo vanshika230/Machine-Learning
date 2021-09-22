@@ -41,6 +41,8 @@ Index:-
           - What is Linear Regression
           - What is gradient descent
           - Implementation of gradient descent
+          - Making predictions on data set
+          - Contour and Surface Plots
            
     Mathematics required for Machine Learning
         a.Statistics:
