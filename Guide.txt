@@ -1,0 +1,20 @@
+1. Get a clear roadmap of everything you need to do to achieve your goal
+For that I'll suggest you to watch :-
+https://www.youtube.com/watch?v=VOpETRQGXy0&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=2
+
+2. Now to work on python -
+  - you can do python micro course
+  - code with mosh python tutorial
+  - Code for cause python bootcamp
+  - Corey Schafer python playlist
+
+3. You'll need knowledge of Linear Algebra for that I suggest you to use 3blue1brown youtube channel.
+4. For statistics watch Krish Naik's statistics playlist
+5. If you want a more structured course you can follow Mathematics for machine learning by Imperial College London on coursera
+6. For machine learning :-
+  - Krish Naik Machine Learning Playlist
+  - Codebasics Machine Learning playlist
+  - IBM Machine Learning using Python in on coursera
+7. I regularly update all my resources here :- https://github.com/vanshika230/Machine-Learning/blob/main/Cheatsheets/Resources.md
+8. For the roadmap I follow :- https://github.com/vanshika230/Machine-Learning/blob/main/TO%20DO.txt PLEASE READ THE DISCLAIMER BEFORE FOLLOWING
+9. For OpenCV follow resources.md given above.
