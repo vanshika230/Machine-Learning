@@ -3,7 +3,7 @@ For that I'll suggest you to watch :-
 https://www.youtube.com/watch?v=VOpETRQGXy0&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=2
 
 2. Now to work on python -
-  - you can do python micro course
+  - you can do python micro course from kaggle
   - code with mosh python tutorial
   - Code for cause python bootcamp
   - Corey Schafer python playlist
