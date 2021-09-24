@@ -28,16 +28,23 @@ Index:-
            - Project 
               - Handwriting Recognition
               - Diabetes Classification
+    6. OpenCV :- 
+           - Installation
+           -reading images/videos
+           - rescale image/video
            
-    6. Face Recognition Using OpenCV and KNN Algorithm
+    7. Face Recognition Using OpenCV and KNN Algorithm
            - Basics
            - Working with images
            - Working with video stream
            - Face Detection using HaarCascade
            - Generating data of faces
            - Building Face classifier
-    7. Hand Detection using OpenCV and mediapipelines 
-    8. Linear Regression
+    8. Hand Detection using OpenCV and mediapipelines 
+    9. Control your laptop brightness via Phone camera using OpenCV
+           - Gets live feed from your phone and applies hand detection on it.
+           - Calculating the distance between your index and thumb tip , it controls the brightness of the laptop.
+    10. Linear Regression
           - What is Linear Regression
           - What is gradient descent
           - Implementation of gradient descent
