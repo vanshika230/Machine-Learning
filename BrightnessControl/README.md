@@ -5,6 +5,7 @@ Open command line and enter the following command :
 ```
 pip install media pipe
 pip install screen_brightness_control
+pip install imutils
 ```
 works well if you already have anaconda packages installed, otherwise look at the code and google search on how to import the required stuff😅 don't be dissapointed in this guide- that's mostly how coding works😃🤷‍♀️
 ```
