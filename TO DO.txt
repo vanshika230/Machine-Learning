@@ -46,9 +46,9 @@
      ✅ Face Detection using HaarCascade
      ✅Generating data of faces
      ✅ Building Face classifier
-🔴Linear Regression
-🔴Linear Regression - II Multiple Features
-🔴Sci-kit Learn Introduction
+✅Linear Regression
+✅Linear Regression - II Multiple Features
+✅Sci-kit Learn Introduction
 🔴Optimisation Algorithms
 🔴Locally Weighted Regression (LOWESS)
 🔴Maximum Likelihood Estimate (MLE) [Proof]
