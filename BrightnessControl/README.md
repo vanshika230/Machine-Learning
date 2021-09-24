@@ -19,11 +19,17 @@ from math import hypot
 ```
 ## 2. Getting our Android phone camera live feed on our computer
  a. Download IP Webcam app from playstore. 
+ 
  b. Click on Start Server (usually at the end)
+ 
  c. Look at the screen it will display links like this :- http://192.168.29.8:8080
+ 
  d. carefully note your link and paste it on your browser search 
+ 
  e. It will open a new window
+ 
  f. In video rendering click on javascript
+ 
  g. Voila! you'll now be able to see you phone camera feed on your laptop
  
  ```
