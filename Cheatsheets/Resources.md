@@ -24,7 +24,13 @@
 
     a. Simplilearn https://www.youtube.com/watch?v=4HKqjENq9OU 
 
-6. OpenCV :
+6.  Linear regression :
+    
+    a. Krish Naik ML playlist
+    
+    b. Codebasics ML playlist
+
+7. OpenCV :
 
     a. FreeCodeCamp :- https://www.youtube.com/watch?v=oXlwWbU8l2o
     
