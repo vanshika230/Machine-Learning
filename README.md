@@ -41,6 +41,7 @@ Index:-
            - Generating data of faces
            - Building Face classifier
     8. Hand Detection using OpenCV and mediapipelines 
+    9. Volume Control using OpenCV and mediapipelines 
     9. Control your laptop brightness via Phone camera using OpenCV
            - Gets live feed from your phone and applies hand detection on it.
            - Calculating the distance between your index and thumb tip , it controls the brightness of the laptop.
