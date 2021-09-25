@@ -42,10 +42,10 @@ Index:-
            - Building Face classifier
     8. Hand Detection using OpenCV and mediapipelines 
     9. Volume Control using OpenCV and mediapipelines 
-    9. Control your laptop brightness via Phone camera using OpenCV
+    10. Control your laptop brightness via Phone camera using OpenCV
            - Gets live feed from your phone and applies hand detection on it.
            - Calculating the distance between your index and thumb tip , it controls the brightness of the laptop.
-    10. Linear Regression
+    11 Linear Regression
           - What is Linear Regression
           - What is gradient descent
           - Implementation of gradient descent
