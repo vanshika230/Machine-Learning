@@ -28,24 +28,7 @@ Index:-
            - Project 
               - Handwriting Recognition
               - Diabetes Classification
-    6. OpenCV :- 
-           - Installation
-           -reading images/videos
-           - rescale image/video
-           
-    7. Face Recognition Using OpenCV and KNN Algorithm
-           - Basics
-           - Working with images
-           - Working with video stream
-           - Face Detection using HaarCascade
-           - Generating data of faces
-           - Building Face classifier
-    8. Hand Detection using OpenCV and mediapipelines 
-    9. Volume Control using OpenCV and mediapipelines 
-    10. Control your laptop brightness via Phone camera using OpenCV
-           - Gets live feed from your phone and applies hand detection on it.
-           - Calculating the distance between your index and thumb tip , it controls the brightness of the laptop.
-    11 Linear Regression
+    6. Linear Regression
           - What is Linear Regression
           - What is gradient descent
           - Implementation of gradient descent
@@ -53,9 +36,27 @@ Index:-
           - Contour and Surface Plots
           - Using Scikit Learn for Linear Regression
            
-    Mathematics required for Machine Learning
+   # Mathematics required for Machine Learning
         a.Statistics:
             1. Measures of central tendency – mean, median, mode
             2. measures of dispersion – mean deviation, standard deviation, quartile deviation, skewness and kurtosis.
         b. Linear Algebra :- scalars,vectors,matrices,tensors.transpose,broadcasting,matrix multiplication, hadamard product,norms,determinants, solving linear equations
+        
+   ##  OpenCV :- 
+           - Installation
+           -reading images/videos
+           - rescale image/video
+           
+    Project-1 :- Face Recognition Using OpenCV and KNN Algorithm
+           - Basics
+           - Working with images
+           - Working with video stream
+           - Face Detection using HaarCascade
+           - Generating data of faces
+           - Building Face classifier
+    Project-2 :- Hand Detection using OpenCV and mediapipelines 
+    Project-3 :- Volume Control using OpenCV and mediapipelines 
+    Project-4 :- Control your laptop brightness via Phone camera using OpenCV
+           - Gets live feed from your phone and applies hand detection on it.
+           - Calculating the distance between your index and thumb tip , it controls the brightness of the laptop.
     
