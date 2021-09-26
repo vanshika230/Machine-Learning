@@ -36,3 +36,10 @@
     
     b. Programming Knowledge :- https://www.youtube.com/watch?v=N81PCpADwKQ&list=PLFQ-3nW-baLyY7PtzSx49U1fuThNYy6Mz&index=28
     
+For Machine Learning refer to:- 
+
+1. Krish Naik ML playlist on youtube
+
+2. Codebasics ML playlist on youtube
+
+3. IBM ML with python on Coursera
