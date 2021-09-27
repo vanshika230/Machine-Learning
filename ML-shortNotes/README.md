@@ -11,9 +11,9 @@
 
 ✅ 5. Dummy Variable and One Hot Encoding
 
-6. Logistic Regression - Binary Classification
+✅ 6. Logistic Regression - Binary Classification
 
-7. Logistic Regression - Multiclass Classification
+✅ 7. Logistic Regression - Multiclass Classification
 
 8. Decision Tree
 
