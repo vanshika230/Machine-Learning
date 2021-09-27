@@ -1,2 +1,0 @@
-1. Predict homeprices
-2. Predict income
