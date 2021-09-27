@@ -9,26 +9,24 @@
 
 ✅ 4. Gradient Descent and Cost Function
 
-5. Saving Model using Joblib and Pickle
+5. Dummy Variable and One Hot Encoding
 
-6. Dummy Variable and One Hot Encoding
+6. Logistic Regression - Binary Classification
 
-7. Logistic Regression - Binary Classification
+7. Logistic Regression - Multiclass Classification
 
-8. Logistic Regression - Multiclass Classification
+8. Decision Tree
 
-9. Decision Tree
+9. Support Vector Machine
 
-10. Support Vector Machine
+10. Random Forest
 
-11. Random Forest
+11. K Means Clustering Algorithm
 
-12. K Means Clustering Algorithm
+12. K Fold Cross Validation
 
-13. K Fold Cross Validation
+13. Naive Bayes
 
-14. Naive Bayes
+14. Hyper Parameter Tuning
 
-15. Hyper Parameter Tuning
-
-16. L1 and L2 Regularization | Lasso and Ridge Regression
+15. L1 and L2 Regularization | Lasso and Ridge Regression
