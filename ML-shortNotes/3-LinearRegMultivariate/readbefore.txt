@@ -1,0 +1,3 @@
+1. Predict homeprices
+2. Predict salary
+in pd.read_csv('path name') mention the path of the file according to where you've saved it. Do not copy blindly.
