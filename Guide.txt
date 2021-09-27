@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=VOpETRQGXy0&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTX
   - Krish Naik Machine Learning Playlist
   - Codebasics Machine Learning playlist
   - IBM Machine Learning using Python in on coursera
-7. I regularly update all my resources here for specific algorithms :- https://github.com/vanshika230/Machine-Learning/blob/main/Cheatsheets/Resources.md
+7. I regularly update all my resources here for specific algorithms :- https://github.com/vanshika230/Machine-Learning/blob/main/Resources.md
 8. For the roadmap I follow :- https://github.com/vanshika230/Machine-Learning/blob/main/TO%20DO.txt PLEASE READ THE DISCLAIMER BEFORE FOLLOWING
 9. For OpenCV follow resources.md given above.
