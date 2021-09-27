@@ -1,9 +1,9 @@
-Machine Learning is best done with proper mathematical derivations and explained code but for revision and quick work using sklearn can be incredibly helpful. 
-This series contains implementation of every algorithm in sklearn to give you a quick revision of its working and concept.
+#### Machine Learning is best done with proper mathematical derivations and explained code but for revision and quick work using sklearn can be incredibly helpful. 
+### This series contains implementation of every algorithm in sklearn to give you a quick revision of its working and concept.
 
 ✅ 1. What is Machine Learning?
 ✅ 2. Linear Regression using Single Variable
-3. Linear Regression using Multiple variables
+✅ 3. Linear Regression using Multiple variables
 4. Gradient Descent and Cost Function
 5. Saving Model using Joblib and Pickle
 6. Dummy Variable and One Hot Encoding
