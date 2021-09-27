@@ -9,7 +9,7 @@
 
 ✅ 4. Gradient Descent and Cost Function
 
-5. Dummy Variable and One Hot Encoding
+✅ 5. Dummy Variable and One Hot Encoding
 
 6. Logistic Regression - Binary Classification
 
