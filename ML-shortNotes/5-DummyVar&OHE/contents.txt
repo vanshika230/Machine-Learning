@@ -1,2 +1,0 @@
-1. car price prediction
-2. houseprice prediction
