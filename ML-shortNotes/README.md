@@ -7,7 +7,7 @@
 
 ✅ 3. Linear Regression using Multiple variables
 
-4. Gradient Descent and Cost Function
+✅ 4. Gradient Descent and Cost Function
 
 5. Saving Model using Joblib and Pickle
 
