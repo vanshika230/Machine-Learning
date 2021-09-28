@@ -1,17 +1,16 @@
 1. Pick a website and describe your objective
 
---> Browse through different sites and pick on to scrape. Check the "Project Ideas" section for inspiration.
+--> Browse through different sites and pick one to scrape. 
 
 --> Identify the information you'd like to scrape from the site. Decide the format of the output CSV file.
 
---> Summarize your project idea and outline your strategy in a Juptyer notebook. - Use the "New" button above.
+--> Summarize your project idea and outline your strategy in a Juptyer notebook.
 
 2. Use the requests library to download web pages
 
 --> Inspect the website's HTML source and identify the right URLs to download.
 
 --> Download and save web pages locally using the requests library.
-
 
 --> Create a function to automate downloading for different topics/search queries.
 
