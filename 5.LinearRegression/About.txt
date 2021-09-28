@@ -1,3 +1,0 @@
-1. What is Linear regression
-2. Gradient descent
-3. Contour Plots
