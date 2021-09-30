@@ -7,7 +7,7 @@
     2.Data Acquisition
         a. Data Acquisition using Beautiful Soup 
         b. Data Acquisition using Web APIs
-        Projects:-
+        🌺 Projects:-
              - Github Webscraping using BeautifulSoup.
              - Linkedin Webscraping using BeautifulSoup and Selenium.
     3. Python Libraries :-
@@ -21,19 +21,21 @@
            - Construct prediction model for one movie
            - Generalize the prediction model for all movies and display predictions.
   # 🔥 Machine-Learning   
-    5. K- Nearest Neighbour:-
+    1. K- Nearest Neighbour:-
            - Theory
            - Implementation
-           - Project 
+           🌺 Projects:- 
               - Handwriting Recognition
               - Diabetes Classification
-    6. Linear Regression
+    2. Linear Regression
           - What is Linear Regression
           - What is gradient descent
           - Implementation of gradient descent
           - Making predictions on data set
           - Contour and Surface Plots
           - Using Scikit Learn for Linear Regression
+          🌺 Projects:- 
+               - Predicting Marks based on Number of hours invested in study
            
    # 💯 Mathematics required for Machine Learning
         a.Statistics:
