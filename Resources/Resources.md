@@ -45,3 +45,9 @@ https://www.ibm.com/cloud/learn/machine-learning#toc-machine-le-K7VszOk6 for the
 2. Codebasics ML playlist on youtube
 
 3. IBM ML with python on Coursera
+
+# Books I follow :- 
+
+1. Data Science from Scratch by O' Reilly
+
+2. Hands on Machine Learning using Scikitlearn, keras and tensorflow by O'Reilly
