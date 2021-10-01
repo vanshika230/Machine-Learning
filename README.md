@@ -41,6 +41,7 @@
         a.Statistics:
             1. Measures of central tendency – mean, median, mode
             2. measures of dispersion – mean deviation, standard deviation, quartile deviation, skewness and kurtosis.
+            3. Correlation coefficient, regression, least squares principles of curve fitting
         b. Linear Algebra :- scalars,vectors,matrices,tensors.transpose,broadcasting,matrix multiplication, hadamard product,norms,determinants, solving linear equations
     
   # 📚 Handwritten notes with proper implementation of each algorithm from scratch 
