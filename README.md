@@ -42,8 +42,9 @@
             1. Measures of central tendency – mean, median, mode
             2. measures of dispersion – mean deviation, standard deviation, quartile deviation, skewness and kurtosis.
             3. Correlation coefficient, regression, least squares principles of curve fitting
-            4. Probability: Introduction, finite sample spaces, conditional probability and independence, Bayes’ theorem, one dimensional random variable, mean, variance.
-        b. Linear Algebra :- scalars,vectors,matrices,tensors.transpose,broadcasting,matrix multiplication, hadamard product,norms,determinants, solving linear equations
+        b. Probability:
+            1. Introduction, finite sample spaces, conditional probability and independence, Bayes’ theorem, one dimensional random variable, mean, variance.
+        c. Linear Algebra :- scalars,vectors,matrices,tensors.transpose,broadcasting,matrix multiplication, hadamard product,norms,determinants, solving linear equations
     
   # 📚 Handwritten notes with proper implementation of each algorithm from scratch 
        ✔ KNN 
