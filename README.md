@@ -20,6 +20,9 @@
            - Exploratory data analysis
            - Construct prediction model for one movie
            - Generalize the prediction model for all movies and display predictions.
+    5. Data Analysis
+           1️⃣ Steps in Data Analytics Projects, Data Analytics tasks and methods, Data Gathering and Preparation:
+                - Data Formats, Parsing and Transformation, Scalability and Real-time Issues; Data Cleaning
   # 🔥 Machine-Learning   
     1. K- Nearest Neighbour:-
            - Theory
