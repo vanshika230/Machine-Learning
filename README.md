@@ -23,6 +23,9 @@
     5. Data Analysis
            1️⃣ Steps in Data Analytics Projects, Data Analytics tasks and methods, Data Gathering and Preparation:
                 - Data Formats, Parsing and Transformation, Scalability and Real-time Issues; Data Cleaning
+                - Consistency Checking, Heterogeneous and Missing Data, Data Transformation and Segmentation; 
+           2️⃣ Exploratory Analysis:
+                - Descriptive and comparative statistics, Hypothesis testing, Statistical Inference. ✅
   # 🔥 Machine-Learning   
     1. K- Nearest Neighbour:-
            - Theory
