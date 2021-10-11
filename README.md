@@ -12,12 +12,7 @@
         b. Matplotlib
         c. Seaborn
         d. Pandas
-    4. Movie Recommendation System :-
-           - get dataset
-           - Exploratory data analysis
-           - Construct prediction model for one movie
-           - Generalize the prediction model for all movies and display predictions.
-    5. Data Analysis
+    4.  Data Analysis
            1️⃣ Steps in Data Analytics Projects, Data Analytics tasks and methods, Data Gathering and Preparation:
                 - Data Formats, Parsing and Transformation, Scalability and Real-time Issues; Data Cleaning
                 - Consistency Checking, Heterogeneous and Missing Data, Data Transformation and Segmentation; 
@@ -54,6 +49,8 @@
   # 🙌 Projects :- 
         🔅 Movie Recommendation System
         🔅 Diabetes Classification 
+        🔅 Handwriting Recognition
+        🔅 Linkedin Webscraping
  
 #### Machine Learning is best done with proper mathematical derivations and explained code but for revision and quick work using sklearn can be incredibly helpful. 
 ### This series contains implementation of every algorithm in sklearn to give you a quick revision of its working and concept.
