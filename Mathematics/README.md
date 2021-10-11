@@ -8,7 +8,7 @@
 # Distributions:
 -  Binomial, Poisson, uniform, normal, gamma, Chi-square and exponential distributions, simple problems.
 # Functions and Theorems:-
--Moment generating function, Functions of one dimensional and two dimensional random variables, Sampling theory, Central limit theorem and applications. 
+- Moment generating function, Functions of one dimensional and two dimensional random variables, Sampling theory, Central limit theorem and applications. 
 # Partial Differential Equations: 
 - Numerical solutions of partial differential equations by finite difference methods, five-point formula, Laplace Poisson Equations, Heat equation, Crank Nicolson’s method, Wave equation. 
 #Linear Algebra :- 
