@@ -56,8 +56,12 @@
 ### This series contains implementation of every algorithm in sklearn to give you a quick revision of its working and concept.
 # Machine Learning Short Notes :- 
        ✅ 1. What is Machine Learning?
+       - Supervised Learning and it types
+       - Unsupervised Learning and its types
 
        ✅ 2. Linear Regression using Single Variable 
+       - Homeprices Prediction
+       - Per Capita Income predicition for Canada 
 
        ✅ 3. Linear Regression using Multiple variables
 
