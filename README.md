@@ -25,7 +25,7 @@
                 - Data Formats, Parsing and Transformation, Scalability and Real-time Issues; Data Cleaning
                 - Consistency Checking, Heterogeneous and Missing Data, Data Transformation and Segmentation; 
            2️⃣ Exploratory Analysis:
-                - Descriptive and comparative statistics, Hypothesis testing, Statistical Inference. ✅
+                - Descriptive and comparative statistics, Hypothesis testing, Statistical Inference.
   # 🔥 Machine-Learning   
     1. K- Nearest Neighbour:-
            - Theory
