@@ -59,6 +59,10 @@
        ✔ Linear Regression
        -  Indepth intution of maths required of Linear Regression
        -  Derivation of Gradient Descent for Univariate Linear Regression
+  
+  # 🙌 Projects :- 
+        🔅 Movie Recommendation System
+        🔅 Diabetes Classification 
  
 #### Machine Learning is best done with proper mathematical derivations and explained code but for revision and quick work using sklearn can be incredibly helpful. 
 ### This series contains implementation of every algorithm in sklearn to give you a quick revision of its working and concept.
