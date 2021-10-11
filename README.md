@@ -7,9 +7,6 @@
     2.Data Acquisition
         a. Data Acquisition using Beautiful Soup 
         b. Data Acquisition using Web APIs
-        🌺 Projects:-
-             - Github Webscraping using BeautifulSoup.
-             - Linkedin Webscraping using BeautifulSoup and Selenium.
     3. Python Libraries :-
         a. Numpy
         b. Matplotlib
@@ -30,19 +27,13 @@
     1. K- Nearest Neighbour:-
            - Theory
            - Implementation
-           🌺 Projects:- 
-              - Handwriting Recognition
-              - Diabetes Classification
     2. Linear Regression
           - What is Linear Regression
           - What is gradient descent
           - Implementation of gradient descent
           - Making predictions on data set
           - Contour and Surface Plots
-          - Using Scikit Learn for Linear Regression
-          🌺 Projects:- 
-               - Predicting Marks based on Number of hours invested in study
-           
+          - Using Scikit Learn for Linear Regression       
    # 💯 Mathematics required for Machine Learning
         a.Statistics:
             1. Measures of central tendency – mean, median, mode
