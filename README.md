@@ -28,6 +28,7 @@
           - Implementation of gradient descent
           - Making predictions on data set
           - Contour and Surface Plots
+          - Visualizing Loss function and Gradient Descent
           - Using Scikit Learn for Linear Regression       
    # 💯 Mathematics required for Machine Learning
         a.Statistics:
