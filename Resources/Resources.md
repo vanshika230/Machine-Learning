@@ -30,11 +30,11 @@
     
     b. Codebasics ML playlist
 
-## 7. OpenCV :
+## Gradient Descent :- 
 
-    a. FreeCodeCamp :- https://www.youtube.com/watch?v=oXlwWbU8l2o
+    a. https://ruder.io/optimizing-gradient-descent/ 
     
-    b. Programming Knowledge :- https://www.youtube.com/watch?v=N81PCpADwKQ&list=PLFQ-3nW-baLyY7PtzSx49U1fuThNYy6Mz&index=28
+    b. https://www.youtube.com/watch?v=sDv4f4s2SB8
     
 # For Machine Learning refer to:- 
 
