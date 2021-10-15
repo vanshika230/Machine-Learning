@@ -7,3 +7,4 @@
 -  Derivation of Gradient Descent for Univariate Linear Regression
 -  Derivation of Gradient Descent for Multivariate Linear Regression
 -  Optimzation Algorithm - Batch Gradient Descent, stochastic GD, Mini Batch GD
+-  Closed Form solution derivation 
