@@ -4,3 +4,4 @@
 - Diabetes Classification
 - Handwriting Recognition
 - Linkedin Webscraping
+- Air Pollution Regression
