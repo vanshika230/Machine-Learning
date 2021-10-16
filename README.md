@@ -60,6 +60,7 @@
         🔅 Diabetes Classification 
         🔅 Handwriting Recognition
         🔅 Linkedin Webscraping
+        🔅 Air Pollution Regression
  
 #### Machine Learning is best done with proper mathematical derivations and explained code but for revision and quick work using sklearn can be incredibly helpful. 
 ### This series contains implementation of every algorithm in sklearn to give you a quick revision of its working and concept.
