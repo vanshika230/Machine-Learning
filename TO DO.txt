@@ -55,7 +55,7 @@
 ✅Project - Air Pollution Regression
 🔴Logistic Regression
 🔥Project - Credit Fraud detection
-🔴Data Prepreprocessing
+✅Data Prepreprocessing
 🔴Feature Selection
 🔴PCA
 🔴Natural Language Pre-preprocessing
