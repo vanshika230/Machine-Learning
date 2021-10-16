@@ -8,3 +8,5 @@
 -  Derivation of Gradient Descent for Multivariate Linear Regression
 -  Optimzation Algorithm - Batch Gradient Descent, stochastic GD, Mini Batch GD
 -  Closed Form solution derivation 
+-  Locally Weighted Regression Derivation 
+-  Maximum Likelihood Estimation for Linear Regression
