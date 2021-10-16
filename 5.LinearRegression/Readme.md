@@ -6,3 +6,4 @@
 -  Multivariate Linear Regression on boston housing dataset.
 -  Optimization of Multivariate Linear Regression 
 -  Closed Form Solution Implementation
+-  LOWESS - Locally Weighted Regression
