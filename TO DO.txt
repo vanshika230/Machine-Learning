@@ -50,9 +50,9 @@
 ✅Linear Regression - II Multiple Features
 ✅Sci-kit Learn Introduction
 ✅Optimisation Algorithms
-🔴Locally Weighted Regression (LOWESS)
-🔴Maximum Likelihood Estimate (MLE) [Proof]
-🔥Project - Air Pollution Regression
+✅Locally Weighted Regression (LOWESS)
+✅Maximum Likelihood Estimate (MLE) [Proof]
+✅Project - Air Pollution Regression
 🔴Logistic Regression
 🔥Project - Credit Fraud detection
 🔴Data Prepreprocessing
