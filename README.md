@@ -29,7 +29,10 @@
           - Making predictions on data set
           - Contour and Surface Plots
           - Visualizing Loss function and Gradient Descent
-          - Using Scikit Learn for Linear Regression       
+          - Multivariate Linear Regression on boston housing dataset
+          - Optimization of Multivariate Linear Regression 
+          - Using Scikit Learn for Linear Regression  
+          - LOWESS - Locally Weighted Regression
    # 💯 Mathematics required for Machine Learning
         a.Statistics:
             1. Measures of central tendency – mean, median, mode
