@@ -32,6 +32,7 @@
           - Multivariate Linear Regression on boston housing dataset
           - Optimization of Multivariate Linear Regression 
           - Using Scikit Learn for Linear Regression  
+          - Closed Form Solution
           - LOWESS - Locally Weighted Regression
    # 💯 Mathematics required for Machine Learning
         a.Statistics:
