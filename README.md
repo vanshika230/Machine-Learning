@@ -52,8 +52,11 @@
        -  Derivation of Gradient Descent for Univariate Linear Regression
        - Surface and Contour Plots
        - Visualization of Loss function, gradient descent and values of theta
-       -  Multivariate Linear Regression on boston housing dataset
-       -  Optimization of Multivariate Linear Regression 
+       - Multivariate Linear Regression on boston housing dataset
+       - Optimization of Multivariate Linear Regression 
+       - Closed Form solution derivation
+       - Locally Weighted Regression Derivation
+       - Maximum Likelihood Estimation for Linear Regression
   
   # 🙌 Projects :- 
         🔅 Movie Recommendation System
