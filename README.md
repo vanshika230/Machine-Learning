@@ -86,5 +86,7 @@
        ✅ 5. Dummy Variable and One Hot Encoding
 
        ✅ 6. Logistic Regression - Binary Classification
+        - Handwriting Recognition 
 
        ✅ 7. Logistic Regression - Multiclass Classification
+       - IRIS Dataset 
