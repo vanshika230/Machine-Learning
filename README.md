@@ -77,6 +77,9 @@
        - Per Capita Income predicition for Canada 
 
        ✅ 3. Linear Regression using Multiple variables
+       - Homeprices Prediction
+       - Car Prices Pediction
+       - Best hiring choice 
 
        ✅ 4. Gradient Descent and Cost Function
 
