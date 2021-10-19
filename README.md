@@ -34,6 +34,7 @@
           - Using Scikit Learn for Linear Regression  
           - Closed Form Solution
           - LOWESS - Locally Weighted Regression
+          - Maximum Likelihood Estimation
    # 💯 Mathematics required for Machine Learning
         a.Statistics:
             1. Measures of central tendency – mean, median, mode
