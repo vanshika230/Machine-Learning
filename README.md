@@ -58,6 +58,12 @@
        - Closed Form solution derivation
        - Locally Weighted Regression Derivation
        - Maximum Likelihood Estimation for Linear Regression
+       
+      ✔ Logitstic Regression 
+       - Hypothesis function
+       -  Log Loss
+       -  Proof of Log loss by MLE
+       -  Gradient Descent Update rule for Logistic Regression
   
   # 🙌 Projects :- 
         🔅 Movie Recommendation System
