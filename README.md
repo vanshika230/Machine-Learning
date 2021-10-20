@@ -35,6 +35,14 @@
           - Closed Form Solution
           - LOWESS - Locally Weighted Regression
           - Maximum Likelihood Estimation
+     3. Logistic Regression
+          - Hypothesis function
+          -  Log Loss
+          -  Proof of Log loss by MLE
+          -  Gradient Descent Update rule for Logistic Regression
+          - Gradient Descent Implementation of Logistic Regression
+          - Sk-Learn Implementation of Logistic Regression on chemical classification dataset.
+          
    # 💯 Mathematics required for Machine Learning
         a.Statistics:
             1. Measures of central tendency – mean, median, mode
