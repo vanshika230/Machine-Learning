@@ -12,7 +12,10 @@
         b. Matplotlib
         c. Seaborn
         d. Pandas
-    4.  Data Analysis
+    4. Feature Selection and Extraction
+        a. Feature Selection
+        b. Principal Component Analysis
+    5.  Data Analysis
            1️⃣ Steps in Data Analytics Projects, Data Analytics tasks and methods, Data Gathering and Preparation:
                 - Data Formats, Parsing and Transformation, Scalability and Real-time Issues; Data Cleaning
                 - Consistency Checking, Heterogeneous and Missing Data, Data Transformation and Segmentation; 
