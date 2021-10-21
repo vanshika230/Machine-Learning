@@ -53,8 +53,8 @@
 ✅Locally Weighted Regression (LOWESS)
 ✅Maximum Likelihood Estimate (MLE) [Proof]
 ✅Project - Air Pollution Regression
-🔴Logistic Regression
-🔥Project - Credit Fraud detection
+✅Logistic Regression
+✅Project - Credit Fraud detection
 ✅Data Prepreprocessing
 🔴Feature Selection
 🔴PCA
