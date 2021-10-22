@@ -13,8 +13,8 @@
         c. Seaborn
         d. Pandas
     4. Feature Selection and Extraction
-        a. Feature Selection
-        b. Principal Component Analysis
+        a.Feature Selection - Chi2 test, randomforest classifier
+        b.Feature Extraction - Principal Component Analysis
     5.  Data Analysis
            1️⃣ Steps in Data Analytics Projects, Data Analytics tasks and methods, Data Gathering and Preparation:
                 - Data Formats, Parsing and Transformation, Scalability and Real-time Issues; Data Cleaning
@@ -75,6 +75,10 @@
        -  Log Loss
        -  Proof of Log loss by MLE
        -  Gradient Descent Update rule for Logistic Regression
+       
+       ✔ Feature Selection and Extraction
+       - Feature Selection - Chi2 test, randomforest classifier
+       - Feature Extraction - Principal Component Analysis
   
   # 🙌 Projects :- 
         🔅 Movie Recommendation System
