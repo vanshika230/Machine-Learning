@@ -16,3 +16,7 @@
 -  Log Loss
 -  Proof of Log loss by MLE
 -  Gradient Descent Update rule for Logistic Regression
+
+✔ Feature Selection and Extraction
+- Feature Selection - Chi2 test, randomforest classifier
+- Feature Extraction - Principal Component Analysis 
