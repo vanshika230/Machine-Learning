@@ -36,6 +36,17 @@
     
     b. https://www.youtube.com/watch?v=sDv4f4s2SB8
     
+## Logistic Regression :- 
+   
+    a. https://www.youtube.com/watch?v=L_xBe7MbPwk
+    
+    b. https://www.youtube.com/watch?v=uFfsSgQgerw 
+    
+## Principal Component Analysis :-
+
+    a. https://www.youtube.com/watch?v=FgakZw6K1QQ 
+
+    
 # For Machine Learning refer to:- 
 
 https://www.ibm.com/cloud/learn/machine-learning#toc-machine-le-K7VszOk6 for theory
