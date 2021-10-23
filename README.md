@@ -45,6 +45,9 @@
           -  Gradient Descent Update rule for Logistic Regression
           - Gradient Descent Implementation of Logistic Regression
           - Sk-Learn Implementation of Logistic Regression on chemical classification dataset.
+    4. Natural Language Processing 
+          - Bag of Words Pipeline 
+          
           
    # 💯 Mathematics required for Machine Learning
         a.Statistics:
