@@ -58,7 +58,7 @@
 ✅Data Prepreprocessing
 ✅Feature Selection
 ✅PCA
-🔴Natural Language Pre-preprocessing
+✅Natural Language Pre-preprocessing
 🔴Naive Bayes Classifier
 🔴Decision Trees & Random Forests
 🔥Project- Titanic Survivor Prediction
