@@ -86,7 +86,7 @@
        -  Gradient Descent Update rule for Logistic Regression
        
        ✔ Feature Selection and Extraction
-       - Feature Selection - Chi2 test, randomforest classifier
+       - Feature Selection
        - Feature Extraction - Principal Component Analysis
   
   # 🙌 Projects :- 
