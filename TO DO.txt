@@ -59,7 +59,7 @@
 ✅Feature Selection
 ✅PCA
 ✅Natural Language Pre-preprocessing
-🔴Naive Bayes Classifier
+✅Naive Bayes Classifier
 🔴Decision Trees & Random Forests
 🔥Project- Titanic Survivor Prediction
 🔴Support Vector Machines
