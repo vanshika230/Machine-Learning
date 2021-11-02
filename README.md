@@ -54,6 +54,18 @@
           - Vectorization with Stopwords Removal
           - Bag of Words Model- Unigram, Bigram, Trigram, n- gram
           - TF-IDF Normalization
+          
+    5.Naive Bayes
+          - Bayes Theorem Formula 
+          - Bayes Theorem - Spam or not
+          - Bayes Theorem - Disease or not
+          - Mushroom Classification
+          - Text Classification
+          - Laplace Smoothing
+          - Multivariate Bernoulli Naive Bayes
+          - Multivariate Event Model Naive Bayes
+          -  Multivariate Bernoulli Naive Bayes vs Multivariate Event Model Naive Bayes
+          -  Gaussian Naive Bayes
                  
    # 💯 Mathematics required for Machine Learning
         a.Statistics:
@@ -88,6 +100,18 @@
        ✔ Feature Selection and Extraction
        - Feature Selection
        - Feature Extraction - Principal Component Analysis
+       
+       ✔ Naive Bayes
+         - Bayes Theorem Formula 
+         - Bayes Theorem - Spam or not
+         - Bayes Theorem - Disease or not
+         - Mushroom Classification
+         - Text Classification
+         - Laplace Smoothing
+         - Multivariate Bernoulli Naive Bayes
+         - Multivariate Event Model Naive Bayes
+         -  Multivariate Bernoulli Naive Bayes vs Multivariate Event Model Naive Bayes
+         -  Gaussian Naive Bayes
   
   # 🙌 Projects :- 
         🔅 Movie Recommendation System
