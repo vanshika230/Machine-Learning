@@ -20,3 +20,15 @@
 ✔ Feature Selection and Extraction
 - Feature Selection - Chi2 test, randomforest classifier
 - Feature Extraction - Principal Component Analysis 
+
+✔️ Naive Bayes
+- Bayes Theorem Formula 
+- Bayes Theorem - Spam or not
+- Bayes Theorem - Disease or not
+- Mushroom Classification
+- Text Classification
+- Laplace Smoothing
+- Multivariate Bernoulli Naive Bayes
+- Multivariate Event Model Naive Bayes
+-  Multivariate Bernoulli Naive Bayes vs Multivariate Event Model Naive Bayes
+-  Gaussian Naive Bayes
