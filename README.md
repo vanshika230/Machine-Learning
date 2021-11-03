@@ -53,8 +53,7 @@
           - Constructing Vocab
           - Vectorization with Stopwords Removal
           - Bag of Words Model- Unigram, Bigram, Trigram, n- gram
-          - TF-IDF Normalization
-          
+          - TF-IDF Normalization      
     5.Naive Bayes
           - Bayes Theorem Formula 
           - Bayes Theorem - Spam or not
@@ -66,6 +65,19 @@
           - Multivariate Event Model Naive Bayes
           -  Multivariate Bernoulli Naive Bayes vs Multivariate Event Model Naive Bayes
           -  Gaussian Naive Bayes
+    6. Decision Tree and Random Forest Classifier
+          - Entropy
+          - Information Gain
+          - Process Kaggle Tiatnic Dataset 
+          - Implementation of Information Gain
+          - Implementation of Decision Tree
+          - Making Predicitions
+          - Decision Trees using Sci-kit Learn
+          - Random Forest Ensembles
+       
+          
+          
+          
                  
    # 💯 Mathematics required for Machine Learning
         a.Statistics:
