@@ -1,4 +1,4 @@
-# Python Basics
+# 📚 Python Basics
 
     a. Python basics :- variables, list, sets, tuples, loops, functions, lambda functions, dictionary, input methods
     b. Python Oops
