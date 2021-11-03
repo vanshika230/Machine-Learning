@@ -1,8 +1,8 @@
 # 👏 Pre- requisites to Machine Learning
     1️⃣ Python Basics
-        a. Python basics :- variables,list,sets,tuples,loops,functions, lambda functions,dictionary, input
+        a. Python basics :- variables, list, sets, tuples, loops, functions, lambda functions, dictionary, input methods
         b. Python Oops
-        c. File and Error Handling - hello.txt, something.txt, data.json,created.json
+        c. File and Error Handling 
         d. Iteration Protocol and Generators
         
     2️⃣ Data Acquisition
@@ -16,13 +16,14 @@
         d. Pandas
         
     4️⃣ Feature Selection and Extraction
-        a.Feature Selection - Chi2 test, randomforest classifier
+        a.Feature Selection - Chi2 test, RandomForest classifier
         b.Feature Extraction - Principal Component Analysis
         
     5️⃣  Data Analysis
            1️⃣ Steps in Data Analytics Projects, Data Analytics tasks and methods, Data Gathering and Preparation:
                 a. Data Formats, Parsing and Transformation, Scalability and Real-time Issues; Data Cleaning
-                b. Consistency Checking, Heterogeneous and Missing Data, Data Transformation and Segmentation; 
+                b. Consistency Checking, Heterogeneous and Missing Data, Data Transformation and Segmentation
+                
            2️⃣ Exploratory Analysis:
                 a. Descriptive and comparative statistics, Hypothesis testing, Statistical Inference.
                 
@@ -85,10 +86,7 @@
           - Making Predicitions
           - Decision Trees using Sci-kit Learn
           - Random Forest Ensembles
-       
-          
-          
-          
+              
                  
    # 💯 Mathematics required for Machine Learning
    
