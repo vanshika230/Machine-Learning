@@ -16,12 +16,12 @@
         d. Pandas
         
     4️⃣ Feature Selection and Extraction
-        a.Feature Selection - Chi2 test, RandomForest classifier
+        a.Feature Selection - Chi2 test, RandomForest Classifier
         b.Feature Extraction - Principal Component Analysis
         
     5️⃣  Data Analysis
            1️⃣ Steps in Data Analytics Projects, Data Analytics tasks and methods, Data Gathering and Preparation:
-                a. Data Formats, Parsing and Transformation, Scalability and Real-time Issues; Data Cleaning
+                a. Data Formats, Parsing and Transformation, Scalability and Real-time Issues, Data Cleaning
                 b. Consistency Checking, Heterogeneous and Missing Data, Data Transformation and Segmentation
                 
            2️⃣ Exploratory Analysis:
@@ -49,9 +49,9 @@
           
      3️⃣ Logistic Regression
           - Hypothesis function
-          -  Log Loss
-          -  Proof of Log loss by MLE
-          -  Gradient Descent Update rule for Logistic Regression
+          - Log Loss
+          - Proof of Log loss by MLE
+          - Gradient Descent Update rule for Logistic Regression
           - Gradient Descent Implementation of Logistic Regression
           - Sk-Learn Implementation of Logistic Regression on chemical classification dataset.
           
@@ -74,8 +74,8 @@
           - Laplace Smoothing
           - Multivariate Bernoulli Naive Bayes
           - Multivariate Event Model Naive Bayes
-          -  Multivariate Bernoulli Naive Bayes vs Multivariate Event Model Naive Bayes
-          -  Gaussian Naive Bayes
+          - Multivariate Bernoulli Naive Bayes vs Multivariate Event Model Naive Bayes
+          - Gaussian Naive Bayes
           
     6️⃣ Decision Tree and Random Forest Classifier
           - Entropy
@@ -102,11 +102,11 @@
     
   # 📚 Handwritten notes with proper implementation of each algorithm from scratch 
        ✅ KNN 
-       - In depth theory with example.
+       - In depth theory with example
  
        ✅ Linear Regression
-       -  Indepth intution of maths required of Linear Regression
-       -  Derivation of Gradient Descent for Univariate Linear Regression
+       - Indepth intution of maths required of Linear Regression
+       - Derivation of Gradient Descent for Univariate Linear Regression
        - Surface and Contour Plots
        - Visualization of Loss function, gradient descent and values of theta
        - Multivariate Linear Regression on boston housing dataset
@@ -115,11 +115,11 @@
        - Locally Weighted Regression Derivation
        - Maximum Likelihood Estimation for Linear Regression
        
-      ✅ Logitstic Regression 
+      ✅ Logistic Regression 
        - Hypothesis function
-       -  Log Loss
-       -  Proof of Log loss by MLE
-       -  Gradient Descent Update rule for Logistic Regression
+       - Log Loss
+       - Proof of Log loss by MLE
+       - Gradient Descent Update rule for Logistic Regression
        
        ✅ Feature Selection and Extraction
        - Feature Selection
