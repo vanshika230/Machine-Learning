@@ -4,24 +4,30 @@
         b. Python Oops
         c. File and Error Handling - hello.txt, something.txt, data.json,created.json
         d. Iteration Protocol and Generators
+        
     2️⃣ Data Acquisition
         a. Data Acquisition using Beautiful Soup 
         b. Data Acquisition using Web APIs
+        
     3️⃣ Python Libraries :-
         a. Numpy
         b. Matplotlib
         c. Seaborn
         d. Pandas
+        
     4️⃣ Feature Selection and Extraction
         a.Feature Selection - Chi2 test, randomforest classifier
         b.Feature Extraction - Principal Component Analysis
+        
     5️⃣  Data Analysis
            1️⃣ Steps in Data Analytics Projects, Data Analytics tasks and methods, Data Gathering and Preparation:
                 a. Data Formats, Parsing and Transformation, Scalability and Real-time Issues; Data Cleaning
                 b. Consistency Checking, Heterogeneous and Missing Data, Data Transformation and Segmentation; 
            2️⃣ Exploratory Analysis:
                 a. Descriptive and comparative statistics, Hypothesis testing, Statistical Inference.
+                
   # 🔥 Machine-Learning   
+  
     1️⃣ K- Nearest Neighbour:-
            - Theory
            - Implementation
@@ -85,12 +91,15 @@
           
                  
    # 💯 Mathematics required for Machine Learning
+   
         1️⃣ Statistics:
             a. Measures of central tendency – mean, median, mode
             b. measures of dispersion – mean deviation, standard deviation, quartile deviation, skewness and kurtosis.
             c. Correlation coefficient, regression, least squares principles of curve fitting
+            
         2️⃣ Probability:
             a. Introduction, finite sample spaces, conditional probability and independence, Bayes’ theorem, one dimensional random variable, mean, variance.
+            
         3️⃣ Linear Algebra :- scalars,vectors,matrices,tensors.transpose,broadcasting,matrix multiplication, hadamard product,norms,determinants, solving linear equations
     
   # 📚 Handwritten notes with proper implementation of each algorithm from scratch 
