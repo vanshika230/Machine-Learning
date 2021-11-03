@@ -94,10 +94,10 @@
         3️⃣ Linear Algebra :- scalars,vectors,matrices,tensors.transpose,broadcasting,matrix multiplication, hadamard product,norms,determinants, solving linear equations
     
   # 📚 Handwritten notes with proper implementation of each algorithm from scratch 
-       ✔ KNN 
+       ✅ KNN 
        - In depth theory with example.
  
-       ✔ Linear Regression
+       ✅ Linear Regression
        -  Indepth intution of maths required of Linear Regression
        -  Derivation of Gradient Descent for Univariate Linear Regression
        - Surface and Contour Plots
@@ -108,17 +108,17 @@
        - Locally Weighted Regression Derivation
        - Maximum Likelihood Estimation for Linear Regression
        
-      ✔ Logitstic Regression 
+      ✅ Logitstic Regression 
        - Hypothesis function
        -  Log Loss
        -  Proof of Log loss by MLE
        -  Gradient Descent Update rule for Logistic Regression
        
-       ✔ Feature Selection and Extraction
+       ✅ Feature Selection and Extraction
        - Feature Selection
        - Feature Extraction - Principal Component Analysis
        
-       ✔ Naive Bayes
+       ✅ Naive Bayes
          - Bayes Theorem Formula 
          - Bayes Theorem - Spam or not
          - Bayes Theorem - Disease or not
