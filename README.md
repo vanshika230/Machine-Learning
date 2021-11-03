@@ -1,31 +1,32 @@
 # 👏 Pre- requisites to Machine Learning
-    1. Python Basics
+    1️⃣ Python Basics
         a. Python basics :- variables,list,sets,tuples,loops,functions, lambda functions,dictionary, input
         b. Python Oops
         c. File and Error Handling - hello.txt, something.txt, data.json,created.json
         d. Iteration Protocol and Generators
-    2.Data Acquisition
+    2️⃣ Data Acquisition
         a. Data Acquisition using Beautiful Soup 
         b. Data Acquisition using Web APIs
-    3. Python Libraries :-
+    3️⃣ Python Libraries :-
         a. Numpy
         b. Matplotlib
         c. Seaborn
         d. Pandas
-    4. Feature Selection and Extraction
+    4️⃣ Feature Selection and Extraction
         a.Feature Selection - Chi2 test, randomforest classifier
         b.Feature Extraction - Principal Component Analysis
-    5.  Data Analysis
+    5️⃣  Data Analysis
            1️⃣ Steps in Data Analytics Projects, Data Analytics tasks and methods, Data Gathering and Preparation:
-                - Data Formats, Parsing and Transformation, Scalability and Real-time Issues; Data Cleaning
-                - Consistency Checking, Heterogeneous and Missing Data, Data Transformation and Segmentation; 
+                a. Data Formats, Parsing and Transformation, Scalability and Real-time Issues; Data Cleaning
+                b. Consistency Checking, Heterogeneous and Missing Data, Data Transformation and Segmentation; 
            2️⃣ Exploratory Analysis:
-                - Descriptive and comparative statistics, Hypothesis testing, Statistical Inference.
+                a. Descriptive and comparative statistics, Hypothesis testing, Statistical Inference.
   # 🔥 Machine-Learning   
-    1. K- Nearest Neighbour:-
+    1️⃣ K- Nearest Neighbour:-
            - Theory
            - Implementation
-    2. Linear Regression
+           
+    2️⃣ Linear Regression
           - What is Linear Regression
           - What is gradient descent
           - Implementation of gradient descent
@@ -38,14 +39,16 @@
           - Closed Form Solution
           - LOWESS - Locally Weighted Regression
           - Maximum Likelihood Estimation
-     3. Logistic Regression
+          
+     3️⃣ Logistic Regression
           - Hypothesis function
           -  Log Loss
           -  Proof of Log loss by MLE
           -  Gradient Descent Update rule for Logistic Regression
           - Gradient Descent Implementation of Logistic Regression
           - Sk-Learn Implementation of Logistic Regression on chemical classification dataset.
-    4. Natural Language Processing 
+          
+    4️⃣ Natural Language Processing 
           - Bag of Words Pipeline 
           - Tokenization and Stopword Removal
           - Regex based Tokenization
@@ -53,8 +56,9 @@
           - Constructing Vocab
           - Vectorization with Stopwords Removal
           - Bag of Words Model- Unigram, Bigram, Trigram, n- gram
-          - TF-IDF Normalization      
-    5.Naive Bayes
+          - TF-IDF Normalization     
+          
+    5️⃣ Naive Bayes
           - Bayes Theorem Formula 
           - Bayes Theorem - Spam or not
           - Bayes Theorem - Disease or not
@@ -65,7 +69,8 @@
           - Multivariate Event Model Naive Bayes
           -  Multivariate Bernoulli Naive Bayes vs Multivariate Event Model Naive Bayes
           -  Gaussian Naive Bayes
-    6. Decision Tree and Random Forest Classifier
+          
+    6️⃣ Decision Tree and Random Forest Classifier
           - Entropy
           - Information Gain
           - Process Kaggle Tiatnic Dataset 
@@ -80,13 +85,13 @@
           
                  
    # 💯 Mathematics required for Machine Learning
-        a.Statistics:
-            1. Measures of central tendency – mean, median, mode
-            2. measures of dispersion – mean deviation, standard deviation, quartile deviation, skewness and kurtosis.
-            3. Correlation coefficient, regression, least squares principles of curve fitting
-        b. Probability:
-            1. Introduction, finite sample spaces, conditional probability and independence, Bayes’ theorem, one dimensional random variable, mean, variance.
-        c. Linear Algebra :- scalars,vectors,matrices,tensors.transpose,broadcasting,matrix multiplication, hadamard product,norms,determinants, solving linear equations
+        1️⃣ Statistics:
+            a. Measures of central tendency – mean, median, mode
+            b. measures of dispersion – mean deviation, standard deviation, quartile deviation, skewness and kurtosis.
+            c. Correlation coefficient, regression, least squares principles of curve fitting
+        2️⃣ Probability:
+            a. Introduction, finite sample spaces, conditional probability and independence, Bayes’ theorem, one dimensional random variable, mean, variance.
+        3️⃣ Linear Algebra :- scalars,vectors,matrices,tensors.transpose,broadcasting,matrix multiplication, hadamard product,norms,determinants, solving linear equations
     
   # 📚 Handwritten notes with proper implementation of each algorithm from scratch 
        ✔ KNN 
