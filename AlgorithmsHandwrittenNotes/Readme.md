@@ -36,9 +36,9 @@
 ✔️ Decision Tree and Random Forest Classifier
 - Entropy
 - Information Gain
-- Process Kaggle Tiatnic Dataset 
+- Process Kaggle Titanic Dataset 
 - Implementation of Information Gain
 - Implementation of Decision Tree
-- Making Predicitions
+- Making Predictions
 - Decision Trees using Sci-kit Learn
 - Random Forest Ensembles
