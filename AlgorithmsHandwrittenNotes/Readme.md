@@ -32,3 +32,13 @@
 - Multivariate Event Model Naive Bayes
 -  Multivariate Bernoulli Naive Bayes vs Multivariate Event Model Naive Bayes
 -  Gaussian Naive Bayes
+
+✔️ Decision Tree and Random Forest Classifier
+- Entropy
+- Information Gain
+- Process Kaggle Tiatnic Dataset 
+- Implementation of Information Gain
+- Implementation of Decision Tree
+- Making Predicitions
+- Decision Trees using Sci-kit Learn
+- Random Forest Ensembles
