@@ -134,8 +134,8 @@
          - Laplace Smoothing
          - Multivariate Bernoulli Naive Bayes
          - Multivariate Event Model Naive Bayes
-         -  Multivariate Bernoulli Naive Bayes vs Multivariate Event Model Naive Bayes
-         -  Gaussian Naive Bayes
+         - Multivariate Bernoulli Naive Bayes vs Multivariate Event Model Naive Bayes
+         - Gaussian Naive Bayes
   
   # 🙌 Projects :- 
         🔅 Movie Recommendation System
