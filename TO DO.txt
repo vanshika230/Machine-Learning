@@ -60,11 +60,11 @@
 ✅PCA
 ✅Natural Language Pre-preprocessing
 ✅Naive Bayes Classifier
-🔴Decision Trees & Random Forests
-🔥Project- Titanic Survivor Prediction
-🔴Support Vector Machines
+✅Decision Trees & Random Forests
+✅Project- Titanic Survivor Prediction
+✅Support Vector Machines
 🔥Project - Image Classification using SVM
-🔴Clustering Fundamentals (Unsupervised)
+✅Clustering Fundamentals (Unsupervised)
 🔥Project - Extracting Dominant Colors
 🔴Deep Learning Introduction
 🔴Neural Networks - MLP's
