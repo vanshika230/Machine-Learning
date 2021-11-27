@@ -11,7 +11,8 @@
 - Moment generating function, Functions of one dimensional and two dimensional random variables, Sampling theory, Central limit theorem and applications. 
 # Partial Differential Equations: 
 - Numerical solutions of partial differential equations by finite difference methods, five-point formula, Laplace Poisson Equations, Heat equation, Crank Nicolson’s method, Wave equation. 
-#Linear Algebra :- 
+
+# Linear Algebra :- 
 - Scalars,vectors,matrices,tensors.transpose,broadcasting,matrix multiplication, hadamard product,norms,determinants, solving linear equations✅
 
  
