@@ -34,8 +34,12 @@
 
 ✅Project - Movie Recommendation System
 
+5. Mathematics
+    ✅Linear Algebra
+    ✅Probability Distribution 
+    ✅Statistics
 
-5. Basics of Machine Learning 
+6. Basics of Machine Learning 
    🔴Types of ML
    🔴Challenges in ML
    🔴Overfitting and Underfitting
@@ -48,19 +52,25 @@
    🔴ROC-AUC Curve
   
    
-    
-✅Linear Algebra
-✅Probability Distribution & Statistics
+7. Predictive Modelling 
+   🔴Introduction to Predictive Modelling
+   🔴Model in Analytics
+   🔴Bussiness Problem and Prediction Model
+   🔴Phases of Predictive Modelling
+   🔴Data Exploration for Modelling
+   🔴Data and Patterns
+   🔴Identifying Missing Data
+   🔴Outlier Detection
+   🔴Z-Score
+   🔴IQR
+   🔴Percentile
+  
+
+
 ✅K-Nearest Neighbours
 ✅Project :- Handwriting Classification
 ✅Project :- Diabetes Classification
-✅Project - Face Recognition
-     ✅ Basics
-     ✅ Working with images
-     ✅ Working with video stream
-     ✅ Face Detection using HaarCascade
-     ✅Generating data of faces
-     ✅ Building Face classifier
+
 ✅Linear Regression
 ✅Linear Regression - II Multiple Features
 ✅Sci-kit Learn Introduction
