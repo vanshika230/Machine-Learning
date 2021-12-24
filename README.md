@@ -115,7 +115,7 @@
           - Gaussian Naive Bayes
           🔴 Project on Naive Bayes
           
-    6️⃣ Decision Tree and Random Forest Classifier
+    6️⃣ Decision Tree 
           - Entropy
           - Information Gain
           - Process Kaggle Titanic Dataset 
@@ -123,7 +123,7 @@
           - Implementation of Decision Tree
           - Making Predictions
           - Decision Trees using Sci-kit Learn
-          - Random Forest Ensembles
+         
               
      7️⃣ Support Vector Machine 
           - SVM Implementation in Python
@@ -143,6 +143,16 @@
           - K-Means ++
           - DBSCAN 
           🔴 Project
+     
+     🔟 Ensemble Methods and Random Forests
+         🔴Ensemble and Voting Classifiers
+         🔴Bagging and Pasting
+         🔴Random Forest
+         🔴Extra Tree
+         🔴 Ada Boost
+         🔴 Gradient Boosting
+         🔴 Gradient Boosting with Sklearn
+         🔴 Stacking Ensemble Learning
             
                  
    # 💯 Mathematics required for Machine Learning
