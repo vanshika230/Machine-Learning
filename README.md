@@ -1,6 +1,7 @@
-# 👏 Pre- requisites to Machine Learning
-    1️⃣ Python Basics
-        a. Python basics :- variables, list, sets, tuples, loops, functions, lambda functions, dictionary, input methods
+# 👏 Pre- requisites to Machine Learning                                                                                    
+                                                                                                                           Key :-
+    1️⃣ Python Basics                                                                                                      🔴 Not Done Yet 
+        a. Python basics :- variables, list, sets, tuples, loops, functions, lambda functions, dictionary, input methods   rest are completed
         b. Python Oops
         c. File and Error Handling 
         d. Iteration Protocol and Generators
