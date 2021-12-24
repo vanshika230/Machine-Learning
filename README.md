@@ -153,7 +153,18 @@
          🔴 Gradient Boosting
          🔴 Gradient Boosting with Sklearn
          🔴 Stacking Ensemble Learning
-            
+      
+      1️⃣1️⃣  Unsupervised Learning
+         🔴 Hierarchical Clustering
+         🔴 DBSCAN 
+         🔴 BIRCH 
+         🔴 Mean - Shift
+         🔴 Affinity Propagation
+         🔴 Anomaly Detection
+         🔴Spectral Clustering
+         🔴 Gaussian Mixture
+         🔴 Bayesian Gaussian Mixture Models
+       
                  
    # 💯 Mathematics required for Machine Learning
    
