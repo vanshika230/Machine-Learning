@@ -136,6 +136,13 @@
          🔴 PCA in Python 
          🔴 PCA Project
          🔴 Fail Case of PCA (Swiss Roll)
+         
+     9️⃣ K- Means
+          🔴 Implentation in Python
+          - Implementation using Libraries
+          - K-Means ++
+          - DBSCAN 
+          🔴 Project
             
                  
    # 💯 Mathematics required for Machine Learning
@@ -150,42 +157,17 @@
             
         3️⃣ Linear Algebra :- scalars,vectors,matrices,tensors.transpose,broadcasting,matrix multiplication, hadamard product,norms,determinants, solving linear equations
     
-  # 📚 Handwritten notes with proper implementation of each algorithm from scratch 
+  # 📚 Handwritten notes with proper implementation and Mathematics Derivations of each algorithm from scratch 
        ✅ KNN 
-       - In depth theory with example
  
        ✅ Linear Regression
-       - Indepth intution of maths required of Linear Regression
-       - Derivation of Gradient Descent for Univariate Linear Regression
-       - Surface and Contour Plots
-       - Visualization of Loss function, gradient descent and values of theta
-       - Multivariate Linear Regression on boston housing dataset
-       - Optimization of Multivariate Linear Regression 
-       - Closed Form solution derivation
-       - Locally Weighted Regression Derivation
-       - Maximum Likelihood Estimation for Linear Regression
        
-      ✅ Logistic Regression 
-       - Hypothesis function
-       - Log Loss
-       - Proof of Log loss by MLE
-       - Gradient Descent Update rule for Logistic Regression
+       ✅ Logistic Regression 
        
        ✅ Feature Selection and Extraction
-       - Feature Selection
-       - Feature Extraction - Principal Component Analysis
        
        ✅ Naive Bayes
-         - Bayes Theorem Formula 
-         - Bayes Theorem - Spam or not
-         - Bayes Theorem - Disease or not
-         - Mushroom Classification
-         - Text Classification
-         - Laplace Smoothing
-         - Multivariate Bernoulli Naive Bayes
-         - Multivariate Event Model Naive Bayes
-         - Multivariate Bernoulli Naive Bayes vs Multivariate Event Model Naive Bayes
-         - Gaussian Naive Bayes
+        
   
   # 🙌 Projects :- 
         🔅 Movie Recommendation System
