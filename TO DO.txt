@@ -1,4 +1,4 @@
-🔴 PYTHON
+1. PYTHON
     ✅Basics                                                                                                                                  Key:-
     ✅Functions                                                                                                                               🔴Not done yet
     ✅Builtin Data Structures                                                                                                                 ✅Completed and uploaded
@@ -6,11 +6,11 @@
     ✅File and Error Handling                                                                                                                 🔥 awesome project(not done yet)
     ✅Iteration Protocol and Generators                                                                                                       (✅ alloted only on completion)
     ✅Kaggle Python micro-course
-    - Asynchronous Programming in Python 
 
-✅Basics of Git/Github
 
-✅Data Acquisition - Web Scrapping 
+2. Basics of Git/Github
+
+3. Data Acquisition - Web Scrapping 
     ✅ Fetching data
     ✅ Using Beautoful Soup
     ✅ Parsing HTML tables
@@ -21,20 +21,35 @@
     ✅Github Webscraping using Beautiful Soup
     ✅LinkedIn webscraping using Beautiful Soup and Selenium
 
-✅Getting started with Machine Learning
-    ✅Overview of Machine Learning pipelines
-    ✅ Supervised learning
-    ✅unsupervised learning
-    ✅reinforcement learning
+4. Libraries :- 
 
-✅Numpy
-✅Linear Algebra
-✅Data Visualisation 
+    ✅Numpy
+    ✅Data Visualisation 
     -Kaggle microcourse 
-✅Seaborn
-✅Pandas
+    ✅Seaborn
+    ✅Matplotlib
+    🔴Plotly
+    ✅Pandas
     - Kaggle micro - course
+
 ✅Project - Movie Recommendation System
+
+
+5. Basics of Machine Learning 
+   🔴Types of ML
+   🔴Challenges in ML
+   🔴Overfitting and Underfitting
+   🔴Testing and Validation
+   🔴Cross Validation
+   🔴Grid Search
+   🔴Random Search
+   🔴Confusion Matrix
+   🔴Precision, Recall ], F1 Score
+   🔴ROC-AUC Curve
+  
+   
+    
+✅Linear Algebra
 ✅Probability Distribution & Statistics
 ✅K-Nearest Neighbours
 ✅Project :- Handwriting Classification
