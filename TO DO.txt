@@ -8,7 +8,7 @@
     ✅Kaggle Python micro-course
 
 
-2. Basics of Git/Github
+2. ✅Basics of Git/Github
 
 3. Data Acquisition - Web Scrapping 
     ✅ Fetching data
@@ -67,17 +67,32 @@
   
 
 
-✅K-Nearest Neighbours
+8. K-Nearest Neighbours
 ✅Project :- Handwriting Classification
 ✅Project :- Diabetes Classification
 
-✅Linear Regression
-✅Linear Regression - II Multiple Features
-✅Sci-kit Learn Introduction
-✅Optimisation Algorithms
-✅Locally Weighted Regression (LOWESS)
-✅Maximum Likelihood Estimate (MLE) [Proof]
-✅Project - Air Pollution Regression
+9. Linear Regression
+  ✅ What is Linear Regression
+  ✅ What is gradient descent
+  ✅Implementation of gradient descent
+  🔴 Importance of Learning Rate
+  🔴Types of Gradient Descent
+  ✅Making predictions on data set
+  ✅Contour and Surface Plots
+  ✅Visualizing Loss function and Gradient Descent
+  🔴Polynomial Regression
+  🔴Regularization
+  🔴Ridge Regression
+  🔴Lasso Regression
+  🔴Elastic Net and Early Stopping 
+  ✅Multivariate Linear Regression on boston housing dataset
+  ✅Optimization of Multivariate Linear Regression 
+  ✅Using Scikit Learn for Linear Regression  
+  ✅Closed Form Solution
+  ✅LOWESS - Locally Weighted Regression
+  ✅Maximum Likelihood Estimation
+  ✅Project - Air Pollution Regression
+  
 ✅Logistic Regression
 ✅Project - Credit Fraud detection
 ✅Data Prepreprocessing
