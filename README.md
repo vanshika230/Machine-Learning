@@ -113,6 +113,7 @@
           - Multivariate Event Model Naive Bayes
           - Multivariate Bernoulli Naive Bayes vs Multivariate Event Model Naive Bayes
           - Gaussian Naive Bayes
+          🔴 Project on Naive Bayes
           
     6️⃣ Decision Tree and Random Forest Classifier
           - Entropy
@@ -124,6 +125,18 @@
           - Decision Trees using Sci-kit Learn
           - Random Forest Ensembles
               
+     7️⃣ Support Vector Machine 
+          - SVM Implementation in Python
+          🔴Different Types of Kernel
+          🔴Project on SVC
+          🔴Project on SVR
+          🔴Project on SVC
+      
+     8️⃣ Principal Component Analysis
+         🔴 PCA in Python 
+         🔴 PCA Project
+         🔴 Fail Case of PCA (Swiss Roll)
+            
                  
    # 💯 Mathematics required for Machine Learning
    
