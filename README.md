@@ -15,6 +15,7 @@
         b. Matplotlib
         c. Seaborn
         d. Pandas
+       🔴Plotly
         
     4️⃣ Feature Selection and Extraction
         a.Feature Selection - Chi2 test, RandomForest Classifier
@@ -28,6 +29,32 @@
            2️⃣ Exploratory Analysis:
                 a. Descriptive and comparative statistics, Hypothesis testing, Statistical Inference.
                 
+  # 💯Basics of Machine Learning
+    1️⃣ Basic
+        🔴Types of ML
+        🔴Challenges in ML
+        🔴Overfitting and Underfitting
+        🔴Testing and Validation
+        🔴Cross Validation
+        🔴Grid Search
+        🔴Random Search
+        🔴Confusion Matrix
+        🔴Precision, Recall ], F1 Score
+        🔴ROC-AUC Curve
+     
+     2️⃣ Predictive Modelling
+      🔴Introduction to Predictive Modelling
+      🔴Model in Analytics
+      🔴Bussiness Problem and Prediction Model
+      🔴Phases of Predictive Modelling
+      🔴Data Exploration for Modelling
+      🔴Data and Patterns
+      🔴Identifying Missing Data
+      🔴Outlier Detection
+      🔴Z-Score
+      🔴IQR
+      🔴Percentile
+                
   # 🔥 Machine-Learning   
   
     1️⃣ K- Nearest Neighbour:-
@@ -35,18 +62,26 @@
            - Implementation
            
     2️⃣ Linear Regression
-          - What is Linear Regression
-          - What is gradient descent
-          - Implementation of gradient descent
-          - Making predictions on data set
-          - Contour and Surface Plots
-          - Visualizing Loss function and Gradient Descent
-          - Multivariate Linear Regression on boston housing dataset
-          - Optimization of Multivariate Linear Regression 
-          - Using Scikit Learn for Linear Regression  
-          - Closed Form Solution
-          - LOWESS - Locally Weighted Regression
-          - Maximum Likelihood Estimation
+           - What is Linear Regression
+           - What is gradient descent
+           - Implementation of gradient descent
+           - Importance of Learning Rate
+           - Types of Gradient Descent
+           - Making predictions on data set
+           - Contour and Surface Plots
+           - Visualizing Loss function and Gradient Descent
+           🔴 Polynomial Regression
+           🔴Regularization
+           🔴Ridge Regression
+           🔴Lasso Regression
+           🔴Elastic Net and Early Stopping 
+           - Multivariate Linear Regression on boston housing dataset
+           - Optimization of Multivariate Linear Regression 
+           - Using Scikit Learn for Linear Regression  
+           - Closed Form Solution
+           - LOWESS - Locally Weighted Regression
+           - Maximum Likelihood Estimation
+           - Project - Air Pollution Regression
           
      3️⃣ Logistic Regression
           - Hypothesis function
@@ -54,6 +89,7 @@
           - Proof of Log loss by MLE
           - Gradient Descent Update rule for Logistic Regression
           - Gradient Descent Implementation of Logistic Regression
+          🔴Multiclass Classification
           - Sk-Learn Implementation of Logistic Regression on chemical classification dataset.
           
     4️⃣ Natural Language Processing 
