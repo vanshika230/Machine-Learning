@@ -180,13 +180,9 @@
     
   # 📚 Handwritten notes with proper implementation and Mathematics Derivations of each algorithm from scratch 
        ✅ KNN 
- 
-       ✅ Linear Regression
-       
+       ✅ Linear Regressio
        ✅ Logistic Regression 
-       
        ✅ Feature Selection and Extraction
-       
        ✅ Naive Bayes
         
   
@@ -196,29 +192,3 @@
         🔅 Handwriting Recognition
         🔅 Linkedin Webscraping
         🔅 Air Pollution Regression
- 
-#### Machine Learning is best done with proper mathematical derivations and explained code but for revision and quick work using sklearn can be incredibly helpful. 
-### This series contains implementation of every algorithm in sklearn to give you a quick revision of its working and concept.
-# Machine Learning Short Notes :- 
-       ✅ 1. What is Machine Learning?
-       - Supervised Learning and it types
-       - Unsupervised Learning and its types
-
-       ✅ 2. Linear Regression using Single Variable 
-       - Homeprices Prediction
-       - Per Capita Income predicition for Canada 
-
-       ✅ 3. Linear Regression using Multiple variables
-       - Homeprices Prediction
-       - Car Prices Pediction
-       - Best hiring choice 
-
-       ✅ 4. Gradient Descent and Cost Function
-
-       ✅ 5. Dummy Variable and One Hot Encoding
-
-       ✅ 6. Logistic Regression - Binary Classification
-        - Handwriting Recognition 
-
-       ✅ 7. Logistic Regression - Multiclass Classification
-       - IRIS Dataset 
