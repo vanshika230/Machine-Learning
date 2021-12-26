@@ -43,17 +43,17 @@
         🔴ROC-AUC Curve
      
      2️⃣ Predictive Modelling
-      🔴Introduction to Predictive Modelling
-      🔴Model in Analytics
-      🔴Bussiness Problem and Prediction Model
-      🔴Phases of Predictive Modelling
-      🔴Data Exploration for Modelling
-      🔴Data and Patterns
-      🔴Identifying Missing Data
-      🔴Outlier Detection
-      🔴Z-Score
-      🔴IQR
-      🔴Percentile
+       🔴Introduction to Predictive Modelling
+       🔴Model in Analytics
+       🔴Bussiness Problem and Prediction Model
+       🔴Phases of Predictive Modelling
+       🔴Data Exploration for Modelling
+       🔴Data and Patterns
+       🔴Identifying Missing Data
+       🔴Outlier Detection
+       🔴Z-Score
+       🔴IQR
+       🔴Percentile
                 
   # 🔥 Machine-Learning   
   
