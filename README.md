@@ -24,9 +24,9 @@
                 
   # 💯Basics of Machine Learning
     1️⃣ Basic
-        🔴Types of ML
-        🔴Challenges in ML
-        🔴Overfitting and Underfitting
+        ✅Types of ML
+        ✅Challenges in ML
+        ✅Overfitting and Underfitting
         🔴Testing and Validation
         🔴Cross Validation
         🔴Grid Search
