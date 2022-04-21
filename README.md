@@ -20,14 +20,7 @@
     4️⃣ Feature Selection and Extraction
         a.Feature Selection - Chi2 test, RandomForest Classifier
         b.Feature Extraction - Principal Component Analysis
-        
-    5️⃣  Data Analysis
-           1️⃣ Steps in Data Analytics Projects, Data Analytics tasks and methods, Data Gathering and Preparation:
-                a. Data Formats, Parsing and Transformation, Scalability and Real-time Issues, Data Cleaning
-                b. Consistency Checking, Heterogeneous and Missing Data, Data Transformation and Segmentation
-                
-           2️⃣ Exploratory Analysis:
-                a. Descriptive and comparative statistics, Hypothesis testing, Statistical Inference.
+       
                 
   # 💯Basics of Machine Learning
     1️⃣ Basic
